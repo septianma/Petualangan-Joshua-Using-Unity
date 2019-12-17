@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - finish
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TargetTembak
+  - Rintangan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2260283547
+    locked: 0
+  - name: Tilesmap
+    uniqueID: 1958297587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameObj
+    uniqueID: 4036844295
+    locked: 0
+  - name: Tombol
+    uniqueID: 2991740479
+    locked: 0

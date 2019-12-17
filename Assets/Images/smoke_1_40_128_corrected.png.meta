@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 626feb1c19b71514f8c7aeaf5cd2a19b
+timeCreated: 1575711514
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smoke_1_40_128_corrected_0
+    21300002: smoke_1_40_128_corrected_1
+    21300004: smoke_1_40_128_corrected_2
+    21300006: smoke_1_40_128_corrected_3
+    21300008: smoke_1_40_128_corrected_4
+    21300010: smoke_1_40_128_corrected_5
+    21300012: smoke_1_40_128_corrected_6
+    21300014: smoke_1_40_128_corrected_7
+    21300016: smoke_1_40_128_corrected_8
+    21300018: smoke_1_40_128_corrected_9
+    21300020: smoke_1_40_128_corrected_10
+    21300022: smoke_1_40_128_corrected_11
+    21300024: smoke_1_40_128_corrected_12
+    21300026: smoke_1_40_128_corrected_13
+    21300028: smoke_1_40_128_corrected_14
+    21300030: smoke_1_40_128_corrected_15
+    21300032: smoke_1_40_128_corrected_16
+    21300034: smoke_1_40_128_corrected_17
+    21300036: smoke_1_40_128_corrected_18
+    21300038: smoke_1_40_128_corrected_19
+    21300040: smoke_1_40_128_corrected_20
+    21300042: smoke_1_40_128_corrected_21
+    21300044: smoke_1_40_128_corrected_22
+    21300046: smoke_1_40_128_corrected_23
+    21300048: smoke_1_40_128_corrected_24
+    21300050: smoke_1_40_128_corrected_25
+    21300052: smoke_1_40_128_corrected_26
+    21300054: smoke_1_40_128_corrected_27
+    21300056: smoke_1_40_128_corrected_28
+    21300058: smoke_1_40_128_corrected_29
+    21300060: smoke_1_40_128_corrected_30
+    21300062: smoke_1_40_128_corrected_31
+    21300064: smoke_1_40_128_corrected_32
+    21300066: smoke_1_40_128_corrected_33
+    21300068: smoke_1_40_128_corrected_34
+    21300070: smoke_1_40_128_corrected_35
+    21300072: smoke_1_40_128_corrected_36
+    21300074: smoke_1_40_128_corrected_37
+    21300076: smoke_1_40_128_corrected_38
+    21300078: smoke_1_40_128_corrected_39
+    21300080: smoke_1_40_128_corrected_40
+    21300082: smoke_1_40_128_corrected_41
+    21300084: smoke_1_40_128_corrected_42
+    21300086: smoke_1_40_128_corrected_43
+    21300088: smoke_1_40_128_corrected_44
+    21300090: smoke_1_40_128_corrected_45
+    21300092: smoke_1_40_128_corrected_46
+    21300094: smoke_1_40_128_corrected_47
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 923
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 922
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 912
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 910
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 908
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 906
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 907
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 906
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_8
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 906
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 778
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 779
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 779
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 778
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 776
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 774
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 773
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_17
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 777
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 656
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 655
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 651
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 650
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 650
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 650
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_24
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 683
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_25
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 648
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_26
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 649
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_27
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 691
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 519
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 519
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 519
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 526
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 525
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 519
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_34
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 515
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_35
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 512
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 468
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 473
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 384
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 384
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 465
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_41
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 384
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 384
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_43
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 384
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 384
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_45
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 384
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_46
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 411
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: smoke_1_40_128_corrected_47
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 416
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
