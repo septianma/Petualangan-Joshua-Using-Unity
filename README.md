@@ -1,6 +1,8 @@
 # Petualangan Joshua
 Game Platformer using Unity2D
 
+![PETUALANGAN_JOSHUA](https://user-images.githubusercontent.com/58722567/70997146-ef81c100-2106-11ea-8c5a-342ac7d39979.png)
+
 
 # How To Play
 Untuk memainkannya menggunakan arrow kanan, kiri, atas, dan spasi untuk kontrol
