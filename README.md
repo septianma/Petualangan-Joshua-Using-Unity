@@ -13,6 +13,15 @@ pada PC. Sedangakan untuk Android menggunakan tombol pada layar yang disediakan.
   - TextMesh Pro  [Unity Assets](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
   - Wooden GUI [Unity Assets](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
   - Graphics Sprite [Free Platform Game Assets](https://craftpix.net/freebies/)
+  
+# Screenshoot
+![menu](https://user-images.githubusercontent.com/58722567/71180617-268dd900-22a5-11ea-948e-931dc397dd8d.JPG)
+
+
+![level](https://user-images.githubusercontent.com/58722567/71180734-5dfc8580-22a5-11ea-9161-17d1a50ed4bc.JPG)
+
+![lv1](https://user-images.githubusercontent.com/58722567/71180755-681e8400-22a5-11ea-898c-bbcc7475dfe1.JPG)
+
 
 # Contributor
   - Septian Muhammad Adi [A11.2017.10346](https://mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10346.jpg)
