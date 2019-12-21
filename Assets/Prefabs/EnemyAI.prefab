@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 61949521834359966}
   - component: {fileID: 50686783638579356}
   - component: {fileID: 114632145776257022}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: EnemyAI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -556,6 +556,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyMaxHealth: 40
   enemyHealthBar: {fileID: 114202550449933110}
+  drops: 1
+  theDrop: {fileID: 1771510874203924, guid: 1b0a58cd013afc64b8cb512afa9ae90a, type: 2}
+  deathKnell: {fileID: 8300000, guid: f6f53126c851f0a40b5926852af615ae, type: 3}
 --- !u!212 &212782538902298842
 SpriteRenderer:
   m_ObjectHideFlags: 1

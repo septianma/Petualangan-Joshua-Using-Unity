@@ -162,7 +162,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fullHealth: 100
-  heartBar: {fileID: 0}
+  playerDeathSound: {fileID: 8300000, guid: fcb7c0bd862623f42ba8a4d1b73317b8, type: 3}
+  heartBar: {fileID: 114450802293475906, guid: 53f7005216710734384cd6d3162dcc60, type: 2}
 --- !u!212 &212240402196950606
 SpriteRenderer:
   m_ObjectHideFlags: 1

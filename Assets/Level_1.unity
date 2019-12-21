@@ -823,6 +823,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fullHealth: 100
+  playerDeathSound: {fileID: 8300000, guid: fcb7c0bd862623f42ba8a4d1b73317b8, type: 3}
   heartBar: {fileID: 1050989741}
 --- !u!1 &736685862
 GameObject:
@@ -1428,11 +1429,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4823106160581688, guid: aebfc3c0ae1a7af49b1ded5279e9f951, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 9.98
+      value: 9.56
       objectReference: {fileID: 0}
     - target: {fileID: 4823106160581688, guid: aebfc3c0ae1a7af49b1ded5279e9f951, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.3
+      value: -1.64
       objectReference: {fileID: 0}
     - target: {fileID: 4823106160581688, guid: aebfc3c0ae1a7af49b1ded5279e9f951, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1632,11 +1633,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4823106160581688, guid: aebfc3c0ae1a7af49b1ded5279e9f951, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -0.94
+      value: -7.34
       objectReference: {fileID: 0}
     - target: {fileID: 4823106160581688, guid: aebfc3c0ae1a7af49b1ded5279e9f951, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -3.37
+      value: -1.59
       objectReference: {fileID: 0}
     - target: {fileID: 4823106160581688, guid: aebfc3c0ae1a7af49b1ded5279e9f951, type: 2}
       propertyPath: m_LocalPosition.z

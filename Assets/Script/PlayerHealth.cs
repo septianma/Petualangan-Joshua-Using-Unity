@@ -11,6 +11,8 @@ public class PlayerHealth : MonoBehaviour {
 
 	Player playerControl;
 
+	public AudioClip playerDeathSound;
+
 	//Player Heart Bar
 	public Slider heartBar;
 
@@ -39,8 +41,15 @@ public class PlayerHealth : MonoBehaviour {
 		}
 	}
 
+	public void addHealth(float healthAmount){
+		currentHealth += healthAmount;
+		if(currentHealth > fullHealth) currentHealth = fullHealth;
+		heartBar.value = currentHealth;
+	}
+
 	public void makeDead(){
 		//Instantiate(deathFX, transform.position, transform.rotation);
 		Destroy(gameObject);
+		AudioSource.PlayClipAtPoint(playerDeathSound, transform.position);
 	}
 }
