@@ -18,9 +18,9 @@ pada PC. Sedangakan untuk Android menggunakan tombol pada layar yang disediakan.
 ![menu](https://user-images.githubusercontent.com/58722567/71180617-268dd900-22a5-11ea-948e-931dc397dd8d.JPG)
 
 
-![level](https://user-images.githubusercontent.com/58722567/71180734-5dfc8580-22a5-11ea-9161-17d1a50ed4bc.JPG)
+![level](https://user-images.githubusercontent.com/58722567/71324084-23952180-250d-11ea-92fd-defa5c428b87.JPG)
 
-![lv1](https://user-images.githubusercontent.com/58722567/71180755-681e8400-22a5-11ea-898c-bbcc7475dfe1.JPG)
+![lv1](https://user-images.githubusercontent.com/58722567/71324068-f779a080-250c-11ea-8b5b-2f93df778953.JPG)
 
 
 # Contributor
