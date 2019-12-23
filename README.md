@@ -24,8 +24,8 @@ pada PC. Sedangakan untuk Android menggunakan tombol pada layar yang disediakan.
 
 
 # Contributor
-  - Septian Muhammad Adi [A11.2017.10346](mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10346.jpg)
-  - Evandra Muhammad Vardiansyah [A11.2017.10326](mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10326.jpg)
-  - Ages Maulana Dwi Adityas [A11.2017.10331](mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10331.jpg)
-  - Nafik Akhsana Fajar [A11.2017.10359](mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10359.jpg)
-  - Muhamad Zainal Muttaqin [A11.2017.10348](mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10348.jpg)
+  - Septian Muhammad Adi [A11.2017.10346](http://mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10346.jpg)
+  - Evandra Muhammad Vardiansyah [A11.2017.10326](http://mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10326.jpg)
+  - Ages Maulana Dwi Adityas [A11.2017.10331](http://mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10331.jpg)
+  - Nafik Akhsana Fajar [A11.2017.10359](http://mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10359.jpg)
+  - Muhamad Zainal Muttaqin [A11.2017.10348](http://mahasiswa.dinus.ac.id/images/foto/A/A11/2017/A11.2017.10348.jpg)
