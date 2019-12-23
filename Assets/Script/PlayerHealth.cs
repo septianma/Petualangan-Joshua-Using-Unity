@@ -13,9 +13,12 @@ public class PlayerHealth : MonoBehaviour {
 
 	public AudioClip playerDeathSound;
 
+	public RestartGame theGameManager;
+
 	//Player Heart Bar
 	public Slider heartBar;
 	public Image damageScreen;
+	public GameObject gameOverScreen;
 
 	bool damaged = false;
 	Color damagedColour = new Color(0f,0f,0f,0.5f);
@@ -66,5 +69,10 @@ public class PlayerHealth : MonoBehaviour {
 		//Instantiate(deathFX, transform.position, transform.rotation);
 		Destroy(gameObject);
 		AudioSource.PlayClipAtPoint(playerDeathSound, transform.position);
+		damageScreen.color = damagedColour;
+
+		Animator gameOverAnimator = gameOverScreen.GetComponent<Animator>();
+		gameOverAnimator.SetTrigger("gameOver");
+		theGameManager.restartTheGame();
 	}
 }
