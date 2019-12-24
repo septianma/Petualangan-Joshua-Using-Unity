@@ -13,7 +13,7 @@ public class PlayerHealth : MonoBehaviour {
 
 	public AudioClip playerDeathSound;
 
-	public RestartGame theGameManager;
+	public GameManager theGameManager;
 
 	//Player Heart Bar
 	public Slider heartBar;
