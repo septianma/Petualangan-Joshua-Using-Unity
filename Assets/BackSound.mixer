@@ -15,7 +15,7 @@ AudioMixerController:
   m_EnableSuspend: 1
   m_UpdateMode: 0
   m_ExposedParameters:
-  - guid: 02444c4b732f7c049aad9c5ed978950e
+  - guid: e33f516783eaa9448988fcb93fc3384b
     name: volBacksound
   m_AudioMixerGroupViews:
   - guids:
